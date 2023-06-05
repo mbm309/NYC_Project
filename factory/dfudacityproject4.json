@@ -1,0 +1,9 @@
+{
+	"name": "dfudacityproject4",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "95483668-c380-4646-9824-e77f38bd13b4",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
